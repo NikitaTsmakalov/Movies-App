@@ -3,15 +3,15 @@
 ## Демонстрация
 ![Movie Video](/app/src/main/res/drawable/movie_video.gif)
 
-![Film Info Dark](/app/src/main/res/drawable/film_info_dark.jpg)
+<img src="/app/src/main/res/drawable/film_info_dark.jpg" width="300" alt="Film Info Dark">
 
-![Film Info Lite](/app/src/main/res/drawable/film_info_lite.jpg)
+<img src="/app/src/main/res/drawable/film_info_lite.jpg" width="300" alt="Film Info Lite">
 
-![Popular Dark](/app/src/main/res/drawable/popular_dark.jpg)
+<img src="/app/src/main/res/drawable/popular_dark.jpg" width="300" alt="Popular Dark">
 
-![Popular Lite](/app/src/main/res/drawable/popular_lite.jpg)
+<img src="/app/src/main/res/drawable/popular_lite.jpg" width="300" alt="Popular Lite">
 
-![Upcoming](/app/src/main/res/drawable/upcoming_dark.jpg)
+<img src="/app/src/main/res/drawable/upcoming_dark.jpg" width="300" alt="Upcoming">
 
 ## Описание
 Приложение для просмотра информации о фильмах с использованием API The Movie Database (TMDB).
