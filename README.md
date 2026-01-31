@@ -3,6 +3,15 @@
 ## Демонстрация
 ![Movie Video](/app/src/main/res/drawable/movie_video.gif)
 
+<img src="/app/src/main/res/drawable/film_info_dark.jpg" width="300" alt="Film Info Dark">
+
+<img src="/app/src/main/res/drawable/film_info_lite.jpg" width="300" alt="Film Info Lite">
+
+<img src="/app/src/main/res/drawable/popular_dark.jpg" width="300" alt="Popular Dark">
+
+<img src="/app/src/main/res/drawable/popular_lite.jpg" width="300" alt="Popular Lite">
+
+<img src="/app/src/main/res/drawable/upcoming_dark.jpg" width="300" alt="Upcoming">
 
 
 
